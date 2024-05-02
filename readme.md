@@ -5,6 +5,8 @@
 PORT
 MONGODB_URL
 DB_NAME
+CORS_ORIGIN
+
 - nodemon is used for monitoring change in files and reload server
 
 - Prettier is used using dev dependency for formatting JS with configuration in .prettierrc & .prettierignore to ignore files from formatting
