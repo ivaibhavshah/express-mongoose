@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-node-backend",
+  "version": "1.0.0",
+  "description": "Chai aur code youtube channel following backend playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "mongo"
+  ],
+  "author": "Vaibhav Shah",
+  "license": "ISC"
+}
